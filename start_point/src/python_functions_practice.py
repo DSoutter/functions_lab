@@ -47,3 +47,4 @@ def reverse_string():
 def fahrenheit_to_celsius(num):
     result = (num - 32) * 5/9
     return round(result, 2)
+    
